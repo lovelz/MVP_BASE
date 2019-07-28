@@ -1,4 +1,4 @@
-package com.lovelz.mvp_base.ui;
+package com.lovelz.mvp_base.ui.main;
 
 import android.os.Bundle;
 
