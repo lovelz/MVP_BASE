@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/error_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/lay_40">
+
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:src="@mipmap/default_error_icon" />-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:paddingTop="@dimen/lay_4"-->
+        <!--android:text="加载失败，请重新加载"-->
+        <!--android:textColor="@color/light_text"-->
+        <!--android:textSize="@dimen/font_14" />-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/error_retry_view"-->
+        <!--android:layout_width="@dimen/lay_100"-->
+        <!--android:layout_height="@dimen/lay_26"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_marginTop="@dimen/lay_12"-->
+        <!--android:background="@drawable/bound_d6_13"-->
+        <!--android:gravity="center"-->
+        <!--android:text="重新加载"-->
+        <!--android:textColor="@color/theme_text"-->
+        <!--android:textSize="@dimen/font_14" />-->
+
+</LinearLayout>
+

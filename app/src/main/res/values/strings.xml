@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP_BASE</string>
+
+    <!--列表为空时的相关信息-->
+    <string name="load_empty_info">空空如也！</string>
+</resources>
